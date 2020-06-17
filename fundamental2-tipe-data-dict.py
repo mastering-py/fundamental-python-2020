@@ -33,9 +33,9 @@ data_dari_server_gojek = {
         {'nama' : 'Eko', 'jarak' : 10},
         {'nama' : 'Dwi', 'jarak' : 30},
         {'nama' : 'Tri', 'jarak' : 40},
-        {'nama' : 'Catir', 'jarak' : 1000}
+        {'nama' : 'Catir', 'jarak' : 1000} # dict > list > dict
     ]
-} # dict > list > dict
+}
 
 print(data_dari_server_gojek)
 print(f"\nDriver disekitar sini: {data_dari_server_gojek['driver_list']}")
