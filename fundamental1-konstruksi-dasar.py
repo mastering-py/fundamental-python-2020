@@ -1,5 +1,5 @@
 # KONSTRUKSI DASAR PYTHON
-# SEQUENTIAL: Eksekusi berurutan
+# SEQUENTIAL / PROCEDURAL : Eksekusi berurutan
 print('Hello World!')
 print('by SADDAM')
 print('Tanggal 15 Juni 2020')
